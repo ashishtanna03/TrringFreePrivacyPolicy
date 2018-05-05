@@ -1,4 +1,4 @@
-<!DOCTYPE html><html> <head> <meta charset="utf-8"> <meta name="viewport" content="width=device-width"> <title>Privacy Policy</title> <style>body{font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; padding:1em;}</style></head> <body><h2>Privacy Policy</h2> <p> Innovplex built the Trring - Launcher on Lockscreen app as an Ad Supported app. This SERVICE is provided by Innovplex at no cost and is intended for use as is.
+<h2>Privacy Policy</h2> <p> Innovplex built the Trring - Launcher on Lockscreen app as an Ad Supported app. This SERVICE is provided by Innovplex at no cost and is intended for use as is.
                   </p> <p>This page is used to inform website visitors regarding our policies with the collection, use, and
                     disclosure of Personal Information if anyone decided to use our Service.
                   </p> <p>If you choose to use our Service, then you agree to the collection and use of information in relation
@@ -43,4 +43,4 @@
                     this page.
                   </p> <p><strong>Contact Us</strong></p> <p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact
                     us.
-                  </p></body></html>
+                  </p>
